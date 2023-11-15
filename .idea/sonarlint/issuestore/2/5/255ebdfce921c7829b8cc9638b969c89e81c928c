@@ -1,0 +1,39 @@
+
+D
+java:S37405"/Provide the parametrized type for this generic.(µÉÚ
+E
+java:S37406"/Provide the parametrized type for this generic.(è¾ˆ…
+E
+java:S3740Y"/Provide the parametrized type for this generic.(ÜÔ¶ƒ
+J
+java:S3740\"/Provide the parametrized type for this generic.(´Öã·úÿÿÿÿ
+K
+java:S3740º"/Provide the parametrized type for this generic.(´Öã·úÿÿÿÿ
+F
+java:S3740½"/Provide the parametrized type for this generic.(¦—üÒ
+‡
+java:S1192o"lDefine a constant instead of duplicating this literal "Ğ‘ĞµĞ· Ğ²Ñ€Ğ°Ñ…ÑƒĞ²Ğ°Ğ½Ğ½Ñ Ğ¿ĞµÑ€Ñ–Ğ¾Ğ´Ñƒ
+" 3 times.(‹“–“şÿÿÿÿ
+~
+java:S1192y"hDefine a constant instead of duplicating this literal "Ğ— Ğ²Ñ€Ğ°Ñ…ÑƒĞ²Ğ°Ğ½Ğ½Ñ Ğ¿ĞµÑ€Ñ–Ğ¾Ğ´Ñƒ
+" 3 times.(¡¹ÛÔ
+b
+java:S3008*"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³©â
+h
+java:S3008+"MRename this field "X0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›†ãÀùÿÿÿÿ
+h
+java:S3008,"MRename this field "X1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïç‰Óıÿÿÿÿ
+g
+java:S3008-"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä±¹æüÿÿÿÿ
+b
+java:S3008."LRename this field "C" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äò‰Ä
+b
+java:S3008/"LRename this field "B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ˆ
+W	java:S125Â"<This block of commented-out lines of code should be removed.(íóëÅøÿÿÿÿ
+O	java:S106Ô"9Replace this use of System.out or System.err by a logger.(­Ô’
+U
+java:S1128"3Remove this unused import 'javafx.fxml.FXMLLoader'.(À‡ô³úÿÿÿÿ8€Í‹ûÀ0
+U
+java:S1128"3Remove this unused import 'javafx.scene.text.Text'.(˜ÿ‡Üşÿÿÿÿ8Í‹ûÀ0
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8Í‹ûÀ0
